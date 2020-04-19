@@ -1,0 +1,14 @@
+/home/rafaelgss/repos/sfml-imgui-foot/CMakeFiles/rebuild_cache.dir
+/home/rafaelgss/repos/sfml-imgui-foot/CMakeFiles/test.dir
+/home/rafaelgss/repos/sfml-imgui-foot/CMakeFiles/edit_cache.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/rebuild_cache.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/catch_main.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/tests.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/constexpr_tests.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/edit_cache.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/relaxed_constexpr_tests.dir
+/home/rafaelgss/repos/sfml-imgui-foot/test/CMakeFiles/test.dir
+/home/rafaelgss/repos/sfml-imgui-foot/src/CMakeFiles/rebuild_cache.dir
+/home/rafaelgss/repos/sfml-imgui-foot/src/CMakeFiles/edit_cache.dir
+/home/rafaelgss/repos/sfml-imgui-foot/src/CMakeFiles/game.dir
+/home/rafaelgss/repos/sfml-imgui-foot/src/CMakeFiles/test.dir

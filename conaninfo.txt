@@ -1,0 +1,85 @@
+[settings]
+    arch=x86_64
+    build_type=RelWithDebInfo
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=7
+    os=Linux
+
+[requires]
+    catch2/2.Y.Z
+    docopt.cpp/0.6.2
+    fmt/6.Y.Z
+    imgui-sfml/2.Y.Z
+    spdlog/1.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=RelWithDebInfo
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=7
+    os=Linux
+    os_build=Linux
+
+[full_requires]
+    bzip2/1.0.8:62090fac134f30c06dcc332565253046ce0271b8
+    catch2/2.11.0:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    docopt.cpp/0.6.2:aa10c32850b15ef5456122906d38ebd7c80ab68c
+    fmt/6.0.0:aa10c32850b15ef5456122906d38ebd7c80ab68c
+    freetype/2.10.1:694e16e89367dbb3a493b3dc9e36484538d58049
+    imgui-sfml/2.1@bincrafters/stable:2bc3b890e2f2ee2f7429b7a240743befba2331ad
+    libpng/1.6.37:b9ddcaaa5626d15810e2f50986c9a8237399c20a
+    sfml/2.5.1@bincrafters/stable:4c95d8f897fa248ef2e3ee69ccfe2802ec42f655
+    spdlog/1.5.0:097c3327bb739115b5923036c42234208ab7eef3
+    stb/20180214@conan/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    zlib/1.2.11:af7901d8bdfde621d086181aa1c495c25a17b137
+
+[full_options]
+    bzip2:build_executable=True
+    bzip2:fPIC=True
+    bzip2:shared=False
+    docopt.cpp:boost_regex=False
+    docopt.cpp:fPIC=True
+    docopt.cpp:shared=False
+    fmt:fPIC=True
+    fmt:header_only=False
+    fmt:shared=False
+    fmt:with_fmt_alias=False
+    freetype:fPIC=True
+    freetype:shared=False
+    freetype:with_bzip2=True
+    freetype:with_png=True
+    freetype:with_zlib=True
+    imgui-sfml:fPIC=True
+    imgui-sfml:imconfig=None
+    imgui-sfml:imconfig_install_folder=None
+    imgui-sfml:shared=False
+    libpng:api_prefix=None
+    libpng:fPIC=True
+    libpng:shared=False
+    sfml:audio=False
+    sfml:fPIC=True
+    sfml:graphics=True
+    sfml:network=False
+    sfml:shared=False
+    sfml:window=True
+    spdlog:fPIC=True
+    spdlog:header_only=False
+    spdlog:no_exceptions=False
+    spdlog:shared=False
+    spdlog:wchar_filenames=False
+    spdlog:wchar_support=False
+    zlib:fPIC=True
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+
+
+[env]
+
