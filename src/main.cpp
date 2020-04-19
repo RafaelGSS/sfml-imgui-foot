@@ -1,7 +1,9 @@
+#include <iostream>
+
+#include <spdlog/spdlog.h>
+
 #include <imgui.h>
 #include <imgui-SFML.h>
-
-#include <iostream>
 
 #include <SFML/Graphics/RenderWindow.hpp>
 #include <SFML/System/Clock.hpp>
@@ -10,7 +12,7 @@
 
 int main()
 {
-    std::cout << "Starting application" << std::endl;
+    spdlog::info("Starting application.");
 
     sf::RenderWindow window(sf::VideoMode(640, 480), "ImGui + SFML = <3");
     window.setFramerateLimit(60);
@@ -35,7 +37,7 @@ int main()
         //    ImGui::ShowDemoWindow();
 
         ImGui::Begin("Hello, world!");
-        ImGui::Button("Look at this pretty button");
+        ImGui::Button("Looks this pretty button!");
         ImGui::End();
 
         window.clear();
